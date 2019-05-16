@@ -1,0 +1,2 @@
+# ambulance
+just another project
